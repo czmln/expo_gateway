@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+span.pic-icon68{width:68px; height:68px; display:inline-block !important;}
+span.icon-pic-idear{ background:url(../images/icons/icon-idear.png) top center no-repeat;}
+span.icon-pic-guide{ background:url(../images/icons/icon-guide.png) top center no-repeat;}
+span.icon-pic-matching{ background:url(../images/icons/icon-matching.png) top center no-repeat;}
+span.icon-pic-product{ background:url(../images/icons/icon-product.png) top center no-repeat;}
+span.icon-pic-services{ background:url(../images/icons/icon-services.png) top center no-repeat;}
+span.icon-pic-venue{ background:url(../images/icons/icon-venue.png) top center no-repeat;}
+span.icon-pic-voice{ background:url(../images/icons/icon-voice.png) top center no-repeat;}
+
+span.icon-pic-traffic{ background:url(../images/icons/icon-traffic.png) top center no-repeat;}
+span.icon-pic-hotle{ background:url(../images/icons/icon-hotle.png) top center no-repeat;}
+span.icon-pic-finance{ background:url(../images/icons/icon-finance.png) top center no-repeat;}
+span.icon-pic-catering{ background:url(../images/icons/icon-catering.png) top center no-repeat;}
+span.icon-pic-travel{ background:url(../images/icons/icon-travel.png) top center no-repeat;}
+span.icon-pic-medical{ background:url(../images/icons/icon-medical.png) top center no-repeat;}
+
+
+
+.icons-pic-news{ background: url(../images/icons/icon_News.png) no-repeat bottom ; width: 20px; height: 20px; display: inline-block; margin:0px 10px 0 0; vertical-align:middle;}
+.icons-pic-exhibitors{ background: url(../images/icons/icon_Exhibitors.png) no-repeat ; width: 20px; height: 20px; display: inline-block; margin:0px 10px 0 0; vertical-align:middle;}
+.icons-pic-buyers{ background: url(../images/icons/icon_Buyers.png) no-repeat !important; width: 20px; height: 20px; display: inline-block; margin:0px 10px 0 0; vertical-align:middle;}
+.icons-pic-activities{ background: url(../images/icons/icon_Activities.png) no-repeat ; width: 20px; height: 20px; display: inline-block; margin:0px 10px 0 0; vertical-align:middle;}
+.icons-pic-services{ background: url(../images/icons/icon_Services.png) no-repeat ; width: 20px; height: 20px; display: inline-block; margin:0px 10px 0 0; vertical-align:middle;}
+.icons-pic-partners{ background: url(../images/icons/icon_Partners.png) no-repeat ; width: 20px; height: 20px; display: inline-block; margin:0px 10px 0 0; vertical-align:middle;}

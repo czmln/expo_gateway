@@ -1,0 +1,327 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	padding:0px;
+	margin:0px;
+	font-size:12px;}
+
+a{
+	text-decoration:none;}
+
+body{
+	background:#f2f2f2;}
+
+.cen-top{
+	background:url(../images/cen_02.jpg) repeat-x;
+	height:100px;}
+	
+.cen-l{
+	width:1000px;
+	height:90px;
+	margin:0 auto;}
+	
+.cen-l img{
+	float:left;
+	padding-top:3px;}	
+	
+.ctop{
+	width:170px;
+	height:60px;
+	float:right;
+	padding-top:15px;}
+	
+.ctop p{
+	line-height:28px;
+	color:#fff;
+	text-align:right;}
+	
+.ctop a{
+	color:#fff;
+	text-decoration:none;
+	padding-left:10px;
+	padding-right:10px;}
+	
+.cbox{
+	width:1000px;
+	overflow:hidden;
+	margin:0 auto;
+	padding-top:10px;}
+	
+.cbox-left{
+	width:220px;
+	overflow:hidden;
+	float:left;}	
+	
+.cbox-list{
+	width:220px;
+	overflow:hidden;
+	padding-bottom:10px;}
+	
+.c-tit{
+	background:url(../images/cen_21.jpg) repeat-x;
+	width:220px;
+	height:38px;
+	border-left:7px solid #169fe7;
+	line-height:38px;
+	}
+	
+.c-tit a{
+	padding-left:10px;
+	font-size:14px;
+	color:#333;}
+	
+.c-nr{
+	width:200px;
+	overflow:hidden;
+	padding:10px 10px;
+	background:#fff;}
+	
+.c-nr li{
+	width:190px;
+	background:url(../images/cen_06.jpg) left no-repeat;
+	padding-left:10px;
+	line-height:34px;
+	list-style:none;
+	border-bottom:1px dashed #dee3e9;}
+	
+.c-nr li a{
+	color:#333;}
+	
+.main{
+	width:540px;
+	overflow:hidden;
+	float:left;
+	margin-left:15px;}
+	
+.m-box{
+	width:540px;
+	overflow:hidden;
+	background:#fff;
+	padding-top:10px;
+	padding-bottom:20px;
+	margin-bottom:15px;}
+	
+.m-box h3{
+	padding-left:10px;
+	padding-top:10px;
+	color:#1193d7;
+	padding-bottom:10px;
+	font-size:14px;}
+	
+.m-box p{
+	line-height:30px;
+	padding-left:10px;}
+	
+.m-box p span{
+	color:#1193d7;}
+	
+.m-box p span i{
+	color:#F00;
+	font-style:normal;}
+	
+.m-btn1{
+	background:url(../images/cen_10.jpg) no-repeat;
+	width:79px;
+	height:24px;
+	border:0px;
+	cursor:pointer;
+	margin-left:10px;}
+	
+.m-btn2{
+	background:url(../images/cen_14.jpg) no-repeat;
+	width:84px;
+	height:23px;
+	border:0px;
+	cursor:pointer;
+	margin-left:10px;}
+	
+.m-btn3{
+	background:url(../images/cen_18.jpg) no-repeat;
+	width:55px;
+	height:23px;
+	border:0px;
+	cursor:pointer;
+	margin-left:10px;}
+	
+.cbox-r{
+	width:210px;
+	overflow:hidden;
+	float:right;}
+	
+	
+.c-gg{
+	width:210px;
+	overflow:hidden;}
+	
+.g-tit{
+	width:210px;
+	height:35px;
+	background:#169fe7;
+	line-height:35px;}
+	
+.g-tit h3{
+	float:left;
+	padding-left:10px;
+	color:#fff;}
+	
+.g-tit a{
+	float:right;
+	padding-right:10px;
+	color:#fff;}
+	
+.g-nr{
+	width:210px;
+	overflow:hidden;
+	background:#fff;
+	padding:10px 0px;}
+	
+.g-nr li{
+	line-height:30px;
+	padding-left:10px;}
+	
+.g-nr li a{
+	color:#333;}
+	
+.bottom{
+	height:50px;
+	background:#fff;
+	border:1px solid #e3e3e3;
+	line-height:50px;}
+	
+.b-box{
+	width:1000px;
+	height:50px;
+	margin:0 auto;}
+	
+.s-l{
+	float:left;}
+	
+.s-r{
+	float:right;}
+	
+	
+	
+	
+	
+	
+	
+/*交易团信息css样式*/	
+.infor{
+	width:765px;
+	float:right;
+	background:#fff;
+	overflow:hidden;}
+	
+.infor-tit{
+	width:745px;
+	height:45px;
+	line-height:45px;
+	border-bottom:2px solid #e3e3e3;
+	margin-left:10px;}
+	
+.infor-tit h3{
+	color:#0099cc;
+	float:left;}
+	
+.infor-tit span{
+	float:left;
+	padding-left:10px;
+	}
+	
+.infor-tit span i{
+	color:#F00;
+	font-style:normal;}
+	
+.infor-tit{
+	width:745px;
+	height:40px;
+	line-height:40px;
+	border-bottom:1px solid #e3e3e3;
+	margin-top:15px;
+	margin-left:10px;}
+	
+.infor h3{
+	float:left;
+	font-size:14px;}
+	
+.infor span{
+	float:left;
+	padding-left:10px;}
+	
+.infor span i{
+	color:#F00;
+	font-style:normal;}
+	
+.infor-nr{
+	width:745px;
+	overflow:hidden;
+	padding-top:20px;}
+	
+.i-list{
+	width:700px;
+	overflow:hidden;
+	line-height:35px;
+	padding-left:10px;
+	padding-top:10px;
+	line-height:30px;}
+	
+.i-list span{
+	float:left;
+	font-size:14px;
+	width:200px;
+	text-align:right;}
+	
+.i-list span i{
+	color:#F00;
+	font-style:normal;}	
+	
+.i-text{
+	width:220px;
+	height:28px;
+	border:1px solid #e3e3e3;
+	float:left;}
+	
+.i-pwd{
+	width:220px;
+	height:28px;
+	border:1px solid #e3e3e3;
+	float:left;}
+	
+.i-yzm{
+	width:105px;
+	height:28px;
+	border:1px solid #e3e3e3;
+	float:left;}	
+	
+.i-img{
+	float:left;
+	padding-left:10px;}
+	
+.i-list small{
+	color:#0099cc;
+	padding-left:10px;}
+	
+.i-btn{
+	background:url(../images/reg2_11.jpg) no-repeat;
+	width:98px;
+	height:31px;
+	margin-left:120px;
+	border:0px;
+	cursor:pointer;}
+	
+.i-textc{
+	width:370px;
+	height:28px;
+	border:1px solid #e3e3e3;
+	float:left;}	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

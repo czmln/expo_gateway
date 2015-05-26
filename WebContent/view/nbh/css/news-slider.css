@@ -1,0 +1,13 @@
+#box{ position:relative; width:308px; height:224px;}
+#box .bigUl{}
+#box .prev{ display:none; position:absolute; width:40px; height:60px; background:url(../images/default/arrow.png) -44px -63px no-repeat; z-index:500; top:67px; left:0px; opacity:0; filter:alpha(opacity=0); cursor:pointer;}
+#box .next{ display:none; position:absolute; width:40px; height:60px; background:url(../images/default/arrow.png) -74px -63px no-repeat; z-index:400; top:67px; right:0px; opacity:0; filter:alpha(opacity=0);cursor:pointer;}
+#box .bigUl li { position:absolute; height:222px; overflow:hidden;  border:1px solid #37673b;}
+#box .bigUl li img{ width:306px;}
+#box .numberUl { position:absolute; right:1px; bottom:0px; z-index:500}
+#box .numberUl li{width:24px; height:18px;  float:left; background:#333; opacity:0.7; margin-left:1px;}
+#box .numberUl li a{ display:block ;width:24px; height:18px; color:#fff !important; font-size:12px; text-align:center; line-height:18px;}
+#box .textUl li{ width:100%; position:absolute; bottom:3px; display:none; z-index:400; background:rgba(0,0,0,0.75) !important; background:rgb(0,0,0) /9; padding:0 10px; height:34px; line-height:34px;}
+#box .textUl{z-index:500;}
+#box .textUl li a{ font-size:14px; font-family:"Microsoft Yahei"; color:#fff !important; font-weight:bold;}
+#box .numberUl li.night a{ background:#37673b; color:black; }
